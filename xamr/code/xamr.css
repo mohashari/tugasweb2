@@ -1,0 +1,41 @@
+.navbar{
+	border-radius:1px;
+}
+
+.jumbotron{
+	#background-color: dodgerblue;
+	color: white;
+	background-image: url('../img/back.jpg');
+	background-size: cover;
+	font-style: italic;
+	font-family: initial;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+.navbar-inverse{
+	background-color: ;
+	border-color: ;
+	margin-bottom: 10px;
+}
+.navbar-inverse .navbar-toggle{
+	border-color: white;
+}
+.navbar-inverse .navbar-brand{
+	color: chartreuse;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	border-color: white;
+}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{
+	background-color: dodgerblue;
+}
+.navbar-inverse .navbar-nav > li > a{
+	color: dodgerblue; 
+}
+.navbar-inverse .navbar-right > li > a{
+	color: red; 
+}
+.table{
+	margin-bottom: 0;
+}
